@@ -1,16 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `Problem Statement`
 
 KYC verification in banks is required for updating customer data and verifying customer identity. The banks are responsible for completing the KYC procedure while opening accounts. KYC may be a manual, time-consuming, and redundant across institutions.<br />
 Sharing KYC information on Blockchain would be highly beneficial for banks.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
 ### `yarn test`
 
@@ -43,13 +34,19 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Technology
+Blockchain
+Web Application
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### Tools
 
-### Analyzing the Bundle Size
+NodeJS
+Truffle Framework
+Ganache
+Solidity
+Metamask
+Web3
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
 ### Making a Progressive Web App
 
