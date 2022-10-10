@@ -3,48 +3,26 @@
 KYC verification in banks is required for updating customer data and verifying customer identity. The banks are responsible for completing the KYC procedure while opening accounts. KYC may be a manual, time-consuming, and redundant across institutions.<br />
 Sharing KYC information on Blockchain would be highly beneficial for banks.
 
-### `yarn test`
+### Reason to use blockchain in this process
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Blockchain technology allows for the creation of a distributed ledger.</br>
 
-### `yarn build`
+This factor means that there is no one single authority and therefore a point of weakness, as in the client/server model.</br>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+It makes it possible to form a system where the user will only need to undergo the KYC procedure once to verify his/her identity.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Technology
-Blockchain
+Blockchain </br>
 Web Application
 
 ### Tools
 
-NodeJS
-Truffle Framework
-Ganache
-Solidity
-Metamask
+NodeJS</br>
+Truffle Framework</br>
+Ganache</br>
+Solidity</br>
+Metamask</br>
 Web3
 
 
