@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `yarn start`
+### `Problem Statement`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+KYC verification in banks is required for updating customer data and verifying customer identity. The banks are responsible for completing the KYC procedure while opening accounts. KYC may be a manual, time-consuming, and redundant across institutions.<br />
+Sharing KYC information on Blockchain would be highly beneficial for banks.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
