@@ -26,18 +26,9 @@ Metamask</br>
 Web3
 
 
-### Making a Progressive Web App
+### Limitations of existing process
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+Redundancy:  Most large files use similar data and processes to verify an equivalent client.</br>
+Inefficiency:  Manual and time-consuming process to collect and verify documentary evidence. </br>
+Lack of specificity:  Requirements for due-diligence are often fuzzy, creating uncertainty on compliance to avoid legal sanctions.
 
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
